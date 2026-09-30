@@ -1,2 +1,2 @@
 # CardioCellMap
-End-to-end analysis of spatial multi-omics data
+End-to-end analysis of spatial cardiac multi-omics data
