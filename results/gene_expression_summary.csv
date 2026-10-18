@@ -1,0 +1,6 @@
+gene,detected_spots,percentage,mean_expression
+IL6,94,2.2,0.0307
+IL1B,29,0.68,0.0094
+CXCL8,226,5.29,0.0737
+NFKB1,318,7.45,0.1017
+ISG15,836,19.58,0.2827
