@@ -1,6 +1,6 @@
 # CardioCellMap 
 
-CardioCellMap is an exploratory computational biology project investigating spatial gene expression, cardiac cell populations, and inflammatory patterns in human heart tissue.
+CardioCellMap is an exploratory computational biology project investigating spatial gene expression, cardiac cell populations, and inflammatory gene patterns in post MI human heart tissue.
 
 # Current work
 
