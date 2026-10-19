@@ -24,7 +24,7 @@ The current work is exploratory. Machine learning development and validation rem
 
 # Dataset
 
-Kuppe et al. (2022), Spatial multi-omic map of human myocardial infarction.
+Kuppe et al. (2022), [Spatial multi-omic map of human myocardial infarction](https://doi.org/10.1038/s41586-022-05060-x).
 
 The dataset is not included in this repository. Obtain it from the original source, subject to its access and reuse terms.
 
