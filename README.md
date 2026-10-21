@@ -24,9 +24,11 @@ The current work is exploratory. Machine learning development and validation rem
 
 # Dataset
 
-Kuppe et al. (2022), [Spatial multi-omic map of human myocardial infarction](https://doi.org/10.1038/s41586-022-05060-x).
+[Processed data on Zenodo](https://doi.org/10.5281/zenodo.6578047). This project uses `Visium_control_P1.h5ad`.
 
-The dataset is not included in this repository. Obtain it from the original source, subject to its access and reuse terms.
+
+# Source study
+Kuppe et al. (2022), [Spatial multi-omic map of human myocardial infarction](https://doi.org/10.1038/s41586-022-05060-x).
 
 
 ## Running the Analysis
